@@ -1,5 +1,4 @@
-<?php
-include('header.php');
+<?
 ?>  
 <div class="container-fluid py-4">
 <h2 class="text-center">About Us</h2>
