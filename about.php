@@ -33,7 +33,7 @@
         </div>  
     </div>  
     <div class="container py-5">
-        <h2>Other Service</h2>
+        <h2>Other</h2>
         <hr>
         <div class="row">
             <div class="col-sm-4">
