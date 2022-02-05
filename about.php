@@ -1,7 +1,7 @@
 <?
 ?>  
 <div class="container-fluid py-4">
-<h2 class="text-center">About Us</h2>
+<h2 class="text-center"></h2>
 <hr>
     <div class="row">
         <?php
